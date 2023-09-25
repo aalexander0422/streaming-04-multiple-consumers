@@ -4,13 +4,13 @@
     Ashlee A 9/24
    
 """
-
 import pika
 import sys
 import webbrowser
 import csv
 import time
-
+from util_logger import setup_logger
+import logging
 
 # Configure logging
 from util_logger import setup_logger
