@@ -1,5 +1,5 @@
 """
-    This program listens for work messages contiously. 
+ Ashlee Alexander 9/20   This program listens for work messages contiously. 
     Start multiple versions to add more workers.  
 
     Author: Denise Case

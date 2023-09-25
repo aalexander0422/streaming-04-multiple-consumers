@@ -1,10 +1,11 @@
-# streaming-04-multiple-consumers
+## streaming-04-multiple-consumers
+## ASHLEE ALExander
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
 One process will create task messages. Multiple worker processes will share the work. 
 
-
+m
 ## Before You Begin
 
 1. Fork this starter repo into your GitHub.
@@ -35,6 +36,7 @@ Explore the RabbitMQ website.
 
 Will it terminate on its own? How do you know? 
 
+ because you have to tell it when to Exit
 ## Ready for Work
 
 1. Use your emitter_of_tasks to produce more task messages.
@@ -57,4 +59,4 @@ Which worker gets which tasks?
 
 ## Screenshot
 
-See a running example with at least 3 concurrent process windows here:
+See a running example with at least 3 concurrent process windows here:"

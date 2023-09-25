@@ -1,5 +1,5 @@
 """
-    This program sends a message to a queue on the RabbitMQ server.
+  Ashlee Alexander 9/20  This program sends a message to a queue on the RabbitMQ server.
     Make tasks harder/longer-running by adding dots at the end of the message.
 
     Author: Denise Case
